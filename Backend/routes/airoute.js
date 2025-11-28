@@ -5,7 +5,7 @@ const fs = require('fs');
 const pdfParse = require('pdf-extraction'); // Using the robust library
 const OpenAI = require('openai');
 const auth = require('../middleware/auth'); // Protects the route
-const User = require('../models/User');
+const User = require('../models/user');
 
 // Configure Multer (Temp storage for uploads)
 const upload = multer({ dest: 'uploads/' });
