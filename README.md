@@ -109,7 +109,7 @@ Beautiful UI to track weekly completion, view skill analysis, and revisit your l
 
 | Signup Page                | Home Page              | Dashboard Page                   | Chatbot Page                 |
 | -------------------------- | ---------------------- | -------------------------------- | ---------------------------- |
-| ![Signup Page](Signup.png) | ![Home Page](Home.png) | ![Dashboard Page](Dashboard.png) | ![Chatbot Page](Chatbot.png) |
+| ![Signup Page](./assests/Signup.png) | ![Home Page](./assests/Home.png) | ![Dashboard Page](./assests/Dashboard.png) | ![Chatbot Page](./assests/Chatbot.png) |
 
 ---
 
